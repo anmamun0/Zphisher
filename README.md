@@ -1,7 +1,7 @@
 <!-- Zphisher -->
 
 <p align="center">
-  <img src=".imgs/logo.png">
+  <img src="https://raw.githubusercontent.com/htr-tech/zphisher/master/.imgs/wf.gif">
 </p>
 
 <p align="center">
